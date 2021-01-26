@@ -1,2 +1,12 @@
-# flower-server
-flower-server
+### 启动服务器
+#### 在根目录下运行
+```
+  npm run server
+```
+服务器地址路径  http://127.0.0.1:3000
+
+#### 开启热更新运行
+```
+  nodemon app.ts
+```
+服务器地址路径  http://127.0.0.1:3000
